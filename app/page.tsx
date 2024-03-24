@@ -212,7 +212,7 @@ export default function Home() {
             <input type="text" placeholder="Type here a frame name or description" />
           <Actions>
             <Button><span style={{ fontWeight: "bold" }}>+</span> Add a frame</Button>
-            <Button><span style={{ fontWeight: "bold" }}>></span> Explore recent frames</Button>
+            <Button><span style={{ fontWeight: "bold" }}>{">"}</span> Explore recent frames</Button>
             <Button>Sell a frame</Button>
           </Actions>
       </Content>
